@@ -1,0 +1,30 @@
+form{
+    display: inline-block;
+    vertical-align: top;
+}
+textarea{
+    display: block;
+}
+input{
+    display: block;
+    border: groove;
+}
+.cardContainer{
+    display: inline-block;
+    width:400px;
+    height: 800px;
+    border:solid 1px black;
+}
+.cards{
+    display: inline-block;
+    margin: 0 auto;
+    vertical-align: top;
+    border:solid 1px black;
+    text-align: center;
+}
+li{
+    list-style-type: none;
+}
+#back{
+    display: none;
+}
